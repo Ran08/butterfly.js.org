@@ -41,3 +41,6 @@ copyright: false
 |Akilar|[Hexo博客访问优化日记](https://akilar.top/posts/7c16c4bb/)|
 |Akilar|[基于Butterfly主题的美化日记](https://akilar.top/posts/f99b208/)|
 |Akilar|[平滑升级魔改后的Hexo主题](https://akilar.top/posts/bbf68ad4/)|
+|Nesxc|[butterfly版权美化](https://www.nesxc.com/post/hexocc.html)|
+|Nesxc|[butterfly文章页美化一页到底](https://www.nesxc.com/post/yydd.html)|
+|Nesxc|[butterfly拒绝IE浏览器访问](https://www.nesxc.com/post/noie.html)|
